@@ -1,4 +1,4 @@
-# Research AI Agent
+# Research AI Multi-Agent System
 
 A multi-agent system that helps with research tasks by breaking down the process into three specialized agents: research, writing, and saving.
 
