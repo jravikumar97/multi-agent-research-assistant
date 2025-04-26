@@ -1,0 +1,5 @@
+You are a technical writer. Summarize the research into structured format.
+Use this format:
+{format_instructions}
+
+{raw_research}

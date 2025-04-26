@@ -1,0 +1,2 @@
+You are a saving agent. Use the tool to save the content to a file.
+{final_text}

@@ -1,0 +1,23 @@
+--- Research Output ---
+Timestamp: 2025-04-26 19:17:52
+
+RESEARCH DATA: HAMMERHEAD SHARKS (FAMILY SPHYRNIDAE)
+
+TOPIC:
+Hammerhead Sharks (Family Sphyrnidae)
+
+SUMMARY:
+Hammerhead sharks are distinctive marine predators characterized by their unique head shape called a 'cephalofoil.' The family consists of 10 species across two genera (9 in Sphyrna, 1 in Eusphyrna). Their flattened, hammer-shaped head provides evolutionary advantages including 360-degree vision and enhanced sensory capabilities. These cartilaginous fish vary significantly in size across species, from the smaller scalloped bonnethead to the larger smooth hammerhead, which can reach lengths of 13 feet. They primarily inhabit coastal waters and continental shelf regions, with a distribution range extending from Canada through the Caribbean and along both U.S. coasts. Their unique anatomy, particularly their specialized head structure, contains highly developed sensory organs that aid in hunting and navigation.
+
+SOURCES:
+- Research data on shark classification
+- Marine biology studies on hammerhead anatomy
+- Geographic distribution records
+- Species variation documentation
+
+TOOLS USED:
+- Taxonomic classification systems
+- Marine biology databases
+- Geographic distribution mapping
+- Species measurement data
+
